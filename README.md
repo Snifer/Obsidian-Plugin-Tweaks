@@ -1,4 +1,8 @@
 # Obsidian-Plugin-Tweaks
+
+
+[Canal de YouTube](https://youtube.com/sniferl4bs)
+
 Este repositorio son modificaciones que hice a los plug-ins de la comunidad de Obsidian, muchos de estos no fueron contribuciones directas al repositorio original porque actualmente aun me falta aprender typescript o en su defecto no lo aceptaron desde aquí dar las gracias a los creadores de estos plug-ins que de una u otra manera aportan a mi vault y flujo de trabajo. 
 
 Vale aclarar que no soy bueno programando en .js por lo que estos cambios pueden mejorar o empeorar el uso del plug-in pero hare el mejor esfuerzo para mantener la calidad del mismo. 
@@ -21,5 +25,8 @@ La visualización que se obtiene es la siguiente.
 
 ![](https://i.imgur.com/wclDsWa.png)
 
+### Enlaces de Interes
+
+- Video en el canal donde hablo del plug-in (Sin publicarse)
 - [Fichero modificado con la nueva funcionalidad](https://github.com/Snifer/Obsidian-Plugin-Tweaks/tree/main/Soundscapes)
 - [Repositorio Oficial](https://github.com/andrewmcgivery/obsidian-soundscapes)
